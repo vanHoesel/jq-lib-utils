@@ -1,2 +1,3 @@
-# jq-lib-utilities
+# jq-lib-utils
+
 A library containing several useful filters
