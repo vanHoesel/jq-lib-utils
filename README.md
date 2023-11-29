@@ -43,3 +43,7 @@ will produce
 > functions and let `jq` figure out which to use, based on 'multi-signature'
 > subroutines
 
+## Number.jq
+
+### round($n)
+
