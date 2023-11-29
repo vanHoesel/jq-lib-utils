@@ -47,3 +47,19 @@ will produce
 
 ### round($n)
 
+
+## String.jq
+
+### trim_whitespace
+
+### skip_empty
+
+### split_trim_skip_empty($str)
+
+### serial_comma($conjunction)
+
+### serial_or
+
+### serial_and
+
+### left_pad($n; $str)
