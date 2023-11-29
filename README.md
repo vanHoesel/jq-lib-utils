@@ -63,3 +63,51 @@ will produce
 ### serial_and
 
 ### left_pad($n; $str)
+
+## DateTime::jq
+
+### fromdateiso8601sub_second
+
+### from_sec
+
+### to_milli_sec
+
+### to_sec
+
+### to_min_sec
+
+### to_hrs_min_sec
+
+### to_min
+
+### to_hrs_min
+
+### to_day_hrs_min
+
+### to_hrs
+
+### to_day_hrs
+
+### to_day
+
+### to_wks_day
+
+### to_human_components
+
+### components_to_short_string
+
+### components_to_long_human_readable_string
+
+### components_to_zero_padded_string
+
+### from_sec_to_short_string
+
+### from_sec_to_long_human_readable_string
+
+### from_sec_to_zero_padded_hrs_min_sec_string
+
+### sec2hms
+
+### sec2short_string
+
+### sec2human_string
